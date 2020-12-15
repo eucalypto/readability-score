@@ -69,6 +69,18 @@ files:
         }
     }
   learner_created: false
+- name: src/readability/Difficulty.java
+  visible: true
+  learner_created: true
+- name: src/readability/DifficultyChecker.java
+  visible: true
+  learner_created: true
+- name: test/readability/DifficultyCheckerTest.java
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/39/stages/205/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Tue, 15 Dec 2020 16:08:41 UTC
 record: -1
