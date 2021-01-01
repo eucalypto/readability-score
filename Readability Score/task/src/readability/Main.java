@@ -9,7 +9,7 @@ public class Main {
 
         var input = scanner.nextLine();
 
-        var difficulty = checker.simpleCheck(input);
+        var difficulty = checker.averageCheck(input);
 
         System.out.println(difficulty);
     }
